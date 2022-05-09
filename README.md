@@ -111,7 +111,7 @@ Run the laravel development server
 
 The api can now be accessed at
 
-    http://localhost:8000/sokoflowadmin/api
+    http://localhost:8000/sokoflowadmin/
 
 Request headers
 
@@ -126,8 +126,10 @@ Refer the [api specification](#api-specification) for more info.
  
 # Authentication
  
-Email: companyx@company.com
-Password: password
+   Email: companyx@company.com
 
-----------
+
+   Password: password
+
+      ----------
 
